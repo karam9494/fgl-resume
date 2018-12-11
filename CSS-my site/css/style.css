@@ -1,0 +1,85 @@
+body{
+  margin: 0;
+  text-align:center;
+
+}
+h1
+{
+  margin-top: 0;
+font-family: 'Tangerine', cursive;
+font-size: 60px;
+}
+
+.top-container
+{
+  background-color: #f1fff1;
+  position: relative;
+  padding: 200px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.paragraph{
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+
+
+}
+img{position: relative;
+left:20px;
+
+}
+
+.under{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+
+}
+.middle
+{
+  position: absolute;
+
+  margin-left:200px;
+}
+.top-cloud
+{
+  margin-left: 400px;
+}
+
+.middle-container
+{
+  background-color: #dbe2ef;
+  font-style: italic;
+
+}
+.skills{
+  background-color: #f9f7f7;
+}
+.profile{
+  position: relative;
+  left: 50px;
+}
+.my{
+  text-decoration: underline;
+}
+.mountain{
+
+
+
+}
+.skill-row2{
+  border-right: 200px;
+}
+.joy{
+  size:20%px;
+}
+.hobbies{
+  font-size: 28%;
+}
+.Reference{
+  background-color: yellow;
+}
